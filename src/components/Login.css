@@ -2,16 +2,12 @@
     background-image: url("https://graphicsfamily.com/wp-content/uploads/edd/2020/11/Tasty-Food-Web-Banner-Design-1180x664.jpg");
     background-repeat: no-repeat;
     background-size:cover;
-       
-        
-        /* Set background to take up the full viewport */
+
         width: 100vw;
         height: 100vh;
-        
-        /* Optionally, center the background */
+    
         background-position: center;
-        
-        /* Add any other styling you need for your login container */
+
       }
 
 
